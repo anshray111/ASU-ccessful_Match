@@ -41,7 +41,7 @@ ASU-ccessful Match is an innovative peer learning platform that connects student
 *The Sessions page allows students to manage existing sessions, join meetings with one click, and view session details.*
 
 ### Calendar View
-![Calendar](CalendarPage.jpg)  
+![Calendar](CalenderPage.jpg)  
 *The Calendar view provides a comprehensive overview of scheduled sessions and available time slots for tutors.*
 
 ### Profile Page
